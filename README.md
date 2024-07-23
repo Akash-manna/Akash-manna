@@ -20,7 +20,8 @@ I'm always eager to expand my skill set. Currently, I am focusing on:
 
 ## 🌟 GitHub Stats
 
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Manna&show_icons=true&theme=radical)
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Manna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs&hide_title=false)
+
 
 ## 📊 Top Languages
 
