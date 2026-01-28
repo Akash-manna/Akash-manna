@@ -1,5 +1,5 @@
 # Akash Manna  
-**System Architect • Full-Stack DevOps Engineer • Entrepreneur**  
+**Principal Architect • Full-Stack Systems Engineer • Entrepreneur**  
 Founder — Awish | India 🇮🇳
 
 ![System Architect](https://img.shields.io/badge/System-Architect-1f2937?style=for-the-badge)
