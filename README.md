@@ -1,42 +1,49 @@
-# Hey, I'm Akash Manna! 👋
+# Akash Manna  
+**System Architect • Full-Stack DevOps Engineer • Entrepreneur**  
+Founder — Awish | India 🇮🇳
 
-I am a seasoned software developer and the proud proprietor of Awish, a dynamic website and software development company based in Ghatal, West Bengal, India. Armed with a B.Tech in Information Technology from Siliguri Institute of Technology, I bring a wealth of knowledge and expertise to every project.
-
-## 🔧 Technologies & Tools
-
-- Backend: Laravel (Expert), J2EE, Java
-- Mobile Development: Flutter, React Native
-- Database: MySQL
-- DevOps: Linux, Docker
-- Programming: C, C++
-- Version Control: Git
-
-## 🚀 What I'm Currently Up To
-
-I'm always eager to expand my skill set. Currently, I am focusing on:
-
-- Advanced Laravel techniques
-- Cloud Technologies (AWS, Azure)
-
-## 🌟 GitHub Stats
-
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash-Manna&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs&hide_title=false)
-
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Manna&layout=compact)
-
-## 📫 Let's Connect!
-
-- Email: [admin@awish.in](mailto:admin@awish.in)
-- LinkedIn: [Akash Manna](https://www.linkedin.com/in/akash-manna/)
-- Twitter: [@TheAkashManna](https://twitter.com/TheAkashManna)
-
-## 🇮🇳 Proudly Indian
-
-I take great pride in contributing to the vibrant tech landscape of India. 🚀 Let's build a brighter future for our country through innovation and collaboration.
+![System Architect](https://img.shields.io/badge/System-Architect-1f2937?style=for-the-badge)
+![8+ Years](https://img.shields.io/badge/Experience-8%2B_Years-374151?style=for-the-badge)
 
 ---
 
-⭐️ Thank you for visiting my GitHub profile! ⭐️
+I design and operate **cloud-native, distributed software systems** where application logic, data, networking, and infrastructure are treated as a single architectural surface.
+
+For **over eight years**, I’ve worked across **banking, manufacturing, government systems, consulting, GIS-backed platforms, and international products**, taking responsibility for systems that must survive scale, audits, change, and other developers.
+
+My work usually begins where problems are unclear and spans:
+- architecture and system boundaries  
+- full-stack implementation (web, mobile, UI)  
+- DevOps, orchestration, and automation  
+- data modeling, audits, and operational integrity  
+
+I don’t build isolated applications.  
+I design **multi-language, multi-domain software suites and super-app platforms** that coordinate people, processes, and intelligence.
+
+Much of this work lives in **private repositories and long-running production systems**, which is why public metrics tell only a small part of the story.
+
+---
+
+### How I Think
+
+- Architecture is a business decision  
+- Scale should be structural, not reactive  
+- Infrastructure, UI, and data are architectural concerns  
+- Automation and intelligence require governance  
+- Systems should remain understandable years later  
+
+---
+
+### In Practice
+
+Container-first systems (Docker, Kubernetes),  
+workflow and intelligence orchestration (n8n, MCP, agentic patterns),  
+relational and NoSQL data models,  
+modern web and mobile stacks,  
+and platform design meant to be extended by other developers.
+
+---
+
+**Built in India 🇮🇳. Designed to work across domains, organisations, and time.**
+
+I design systems assuming **other developers, operators, and decision-makers will depend on them long after the first release**.
